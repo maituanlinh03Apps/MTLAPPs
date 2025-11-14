@@ -1,0 +1,5 @@
+{
+  "name": "Linh Animation Final",
+  "description": "An application to generate consistent cartoon character images using Google Gemini Nano Banana AI, allowing users to upload reference characters and backgrounds with a text prompt.",
+  "requestFramePermissions": []
+}
